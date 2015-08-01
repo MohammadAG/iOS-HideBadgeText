@@ -1,7 +1,7 @@
 Package: com.mohammadag.hidebadgetext
 Name: Hide Badge Text
 Depends: mobilesubstrate
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Description: Hide text in badges
 Maintainer: Mohammad Abu-Garbeyyeh
